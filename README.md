@@ -3,8 +3,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHjLmrjb9jTiQ/profile-displaybackgroundimage-shrink_350_1400/0/1647111077224?e=1652313600&v=beta&t=lP01-d6V4N7KhfafO5W5RUKTZozrokWORi65n-iunec">
 <p align='center'>
 <a href="https://www.linkedin.com/in/miguel-angel-moreno-l%C3%B3pez/"><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"></a>&nbsp;&nbsp;
-</p>
-<a href="https://miguelmorenoportafolio.netlify.app/media/ico/Ico_Logo-M&Mv1.png"><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://miguelmorenoportafolio.netlify.app/"><img height="50" src="https://miguelmorenoportafolio.netlify.app/media/ico/Ico_Logo-M&Mv1.png"></a>&nbsp;&nbsp;
 </p>
 
 <h1 align="center">
