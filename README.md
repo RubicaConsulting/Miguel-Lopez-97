@@ -12,12 +12,12 @@
 
 <h2 align="center">About Me:</h3>
 
-<p>"Soy Desarrollador Web Full Stack, Master en Big Data y Business Intelligence e Ingeniero de Petróleos con conocimientos en desarrollo de aplicaciones Web con <br>
+<h4 align="center">"Soy Desarrollador Web Full Stack, Master en Big Data y Business Intelligence e Ingeniero de Petróleos con conocimientos en desarrollo de aplicaciones Web con <br>
 Stack MERN, HTML, JS y CSS, gestión de bases de datos SQL y NoSQL (MongoDB), Diseño y Maquetación Responsive (UX - UI), manejo de Metodología SCRUM y GitFlow;<br> 
-cuento con experiencia en Consultoría de formulación, seguimiento y evaluación de proyectos (sociales y productivos)"</p>
+cuento con experiencia en Consultoría de formulación, seguimiento y evaluación de proyectos (sociales y productivos)"</h4>
 
- - Quieres ver mi portafolio profesional revisa el siguiente Link <a href="https://miguelmorenoportafolio.netlify.app/"  target="blank" >🚀 M&M</a>
-</p>
+<h4 align="center">- Quieres ver mi portafolio profesional revisa el siguiente Link <a href="https://miguelmorenoportafolio.netlify.app/"  target="blank" >🚀 M&M</a>
+</h4>
   
 <h3 align="center">Skills:</h3>
 <p align="center">
